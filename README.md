@@ -54,7 +54,9 @@ accuracy. Python will be used to implement the project.</p></li>
     <li>Sample invocation
       <ul>Run each code snippet</ul>
     </li>
-    <li>Issues
-      <ul>No implemented Ensemble algo. (Step 5 and 6.)</ul>
+    <li>Difficulties
+      <ul>
+        <li>Creating Ensemble Decision tree</li>
+      </ul>
     </li>
   </ol>
