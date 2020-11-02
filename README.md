@@ -2,7 +2,7 @@
 
 ## Note:
  <ol>
-    <p> Professor we have attcahed both .py and .ipynb file. If you want to rune it on your system, use .py file else our .ipynb file has all the comments and necessary 
+    <p> Professor, we have attcahed both .py and .ipynb file. If you want to run it on your system, use .py file else if you have Jupyter Notebook our .ipynb file has all the comments and necessary 
       information of the Project.
   
   </p></ol>
