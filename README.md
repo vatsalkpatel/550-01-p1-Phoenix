@@ -1,4 +1,12 @@
 # 550-01-p1-Phoenix
+
+## Note:
+ <ol>
+    <p> Professor we have attcahed both .py and .ipynb file. If you want to rune it on your system, use .py file else our .ipynb file has all the comments and necessary 
+      information of the Project.
+  
+  </p></ol>
+
 ## External Dependencies 
   <ol>
   <li>Numpy</li>
